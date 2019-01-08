@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"daidai","characterIndex":5,"characterName":"1","classId":6,"equips":[3,1,0,3,0],"faceIndex":5,"faceName":"1","traits":[],"initialLevel":1,"maxLevel":99,"name":"呆呆","nickname":"呆逼","note":"","profile":"这个名字是谁取得啊？？？"},
+{"id":2,"battlerName":"221","characterIndex":0,"characterName":"1","classId":9,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"1","traits":[],"initialLevel":1,"maxLevel":99,"name":"NPC012号","nickname":"12号","note":"","profile":"一个有梦想的NPC！"},
+{"id":3,"battlerName":"player","characterIndex":6,"characterName":"1","classId":8,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"1","traits":[],"initialLevel":1,"maxLevel":99,"name":"魔王","nickname":"十二","note":"","profile":"受了重伤无法变身的Boss \n可怜啊~~"},
+{"id":4,"battlerName":"nannan","characterIndex":2,"characterName":"1","classId":2,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"1","traits":[],"initialLevel":1,"maxLevel":99,"name":"岚岚","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"meimei","characterIndex":7,"characterName":"1","classId":4,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"1","traits":[],"initialLevel":1,"maxLevel":99,"name":"心月","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"daidai","characterIndex":5,"characterName":"1","classId":3,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"1","traits":[],"initialLevel":1,"maxLevel":99,"name":"呆呆","nickname":"槑","note":"","profile":""},
+{"id":7,"battlerName":"junshan","characterIndex":3,"characterName":"1","classId":5,"equips":[13,9,10,11,12],"faceIndex":3,"faceName":"1","traits":[],"initialLevel":20,"maxLevel":99,"name":"君山","nickname":"","note":"","profile":"心~如~磐~石~！！！"},
+{"id":8,"battlerName":"meimei2","characterIndex":0,"characterName":"3","classId":10,"equips":[16,13,14,15,16],"faceIndex":6,"faceName":"2","traits":[],"initialLevel":99,"maxLevel":99,"name":"心月","nickname":"","note":"","profile":"堕入黑暗以后的光明圣女\n获得了新生~"}
+]

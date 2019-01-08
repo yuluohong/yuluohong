@@ -1,0 +1,24 @@
+【插件参数】
+Show in Menu	是否显示在主菜单 (0: 不显示, 1: 显示)
+Name in Menu	主菜单显示名字
+Display Type	改变任务书显示方式 (0: 顶视图, 1: 侧视图)
+Background Image	任务书德背景图片 (只能使用png格式图片; 留空则使用默认背景图)
+Show Icons	任务书前显示图标 (1: 显示, 0: 不显示)
+Icon Primary Quest	主内容阶段图标ID
+Icon Secondary Quest	次内容阶段图标ID
+Icon Completed Quest	任务完成阶段图标ID
+Icon Failed Quest	任务失败显示的图标ID
+Text Primary	主内容阶段显示的文本
+Text Secondary	次内容阶段显示的文本
+Text Complete	任务完成阶段显示的文本
+Text Fail	任务失败阶段显示的文本
+Text No Quests	没有任务时显示的文本
+
+【插件命令】
+PHQuestBook add 任务的名称	添加一个任务
+PHQuestBook remove 任务的名称	删除这个任务
+PHQuestBook clear	清除任务书中所有任务
+PHQuestBook show	打开任务书
+PHQuestBook complete 任务的名称	完成任务
+PHQuestBook fail 任务的名称	任务失败
+PHQuestBook update 任务的名称	任务更新
